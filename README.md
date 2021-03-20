@@ -1,4 +1,4 @@
-# Optimizaion-for-Data-Science
+# Optimizaion for Data Science Unipd 20/21
 
 1) FW for problems with unbounded feasible set
 
